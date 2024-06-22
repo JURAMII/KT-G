@@ -9,4 +9,4 @@ KT&G 장학재단 웹사이트의 메인을 클론 코딩
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🎓JURAM's Comment
-HTML과 CSS를 사용하였으며, 반응형 구현까지 완료되었습니다.
+HTML과 CSS를 사용하였으며, 반응형 구현까지 완료하였습니다.
